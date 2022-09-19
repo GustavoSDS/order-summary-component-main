@@ -26,7 +26,7 @@ body {
 .main-container {
     width: 328px;
     height: 570px;
-    margin: 70px auto;
+    margin: 100px auto;
     border-radius: 8px;
     background-color: white;
     overflow: hidden;
